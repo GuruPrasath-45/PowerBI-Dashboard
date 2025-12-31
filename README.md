@@ -1,2 +1,2 @@
 # PowerBI-Dashboard
-Supertore Sales &amp; Profit Analysis Dashboard
+Superstore Sales & Profit Analysis Dashboard
